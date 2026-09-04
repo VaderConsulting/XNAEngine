@@ -19,6 +19,10 @@ Open `XNAEngine.sln` in Visual Studio 2008 or later (solution format 10.00) with
 
 Microsoft XNA Framework is third-party Microsoft software. It is referenced only; no XNA runtime, pipeline DLLs, or Microsoft sample assets are bundled in this tree.
 
+## Requirements
+
+- Visual Studio 2005 to 2008
+
 ## Attribution and provenance
 
 Working copy from Dave Robinson's OneDrive Historical Dev folder `XNAEngine`. Both assemblies: `AssemblyCompany` Hirogen, `AssemblyCopyright` Copyright © Hirogen 2006, `AssemblyVersion` 1.0.0.0. Engine `AssemblyTitle` / `AssemblyProduct` XNAGame; pipeline `AssemblyTitle` / `AssemblyProduct` ContentPipeline. `RootNamespace` / `AssemblyName` XNAEngine. Startup object is `Sub Main` (`MyType` WindowsFormsWithCustomSubMain; `Application.myapp` still lists `MainForm` Form1). VS conversion log dated Sunday, 12 July 2009 11:40 AM (see `UpgradeLog.XML.example`).
