@@ -25,7 +25,7 @@ Microsoft XNA Framework is third-party Microsoft software. It is referenced only
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `XNAEngine`. Both assemblies: `AssemblyCompany` Hirogen, `AssemblyCopyright` Copyright © Hirogen 2006, `AssemblyVersion` 1.0.0.0. Engine `AssemblyTitle` / `AssemblyProduct` XNAGame; pipeline `AssemblyTitle` / `AssemblyProduct` ContentPipeline. `RootNamespace` / `AssemblyName` XNAEngine. Startup object is `Sub Main` (`MyType` WindowsFormsWithCustomSubMain; `Application.myapp` still lists `MainForm` Form1). VS conversion log dated Sunday, 12 July 2009 11:40 AM (see `UpgradeLog.XML.example`).
+Working copy from my Historical Dev folder `XNAEngine`. Both assemblies: `AssemblyCompany` Hirogen, `AssemblyCopyright` Copyright © Hirogen 2006, `AssemblyVersion` 1.0.0.0. Engine `AssemblyTitle` / `AssemblyProduct` XNAGame; pipeline `AssemblyTitle` / `AssemblyProduct` ContentPipeline. `RootNamespace` / `AssemblyName` XNAEngine. Startup object is `Sub Main` (`MyType` WindowsFormsWithCustomSubMain; `Application.myapp` still lists `MainForm` Form1). VS conversion log dated Sunday, 12 July 2009 11:40 AM (see `UpgradeLog.XML.example`).
 
 ## License
 
