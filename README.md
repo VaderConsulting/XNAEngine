@@ -29,4 +29,4 @@ Working copy from my Historical Dev folder `XNAEngine`. Both assemblies: `Assemb
 
 ## License
 
-MIT © 2026 VaderConsulting for Dave Robinson's code. See `LICENSE`. Microsoft XNA Framework (XNA Game Studio / Game Studio Express) is third-party Microsoft software and is not included in this repository.
+MIT © 2026 Vader Consulting for Dave Robinson's code. See `LICENSE`. Microsoft XNA Framework (XNA Game Studio / Game Studio Express) is third-party Microsoft software and is not included in this repository.
